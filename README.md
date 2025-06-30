@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papai004" alt="papai004" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on [DigiSchool](https://github.com/papai004/DigiSchool-Frontend)
+- 🔭 I’m currently working on [DigiSchool](https://github.com/papai004/DigiSchool-Frontend) && [Mockly](https://github.com/papai004/Mockly)
 
-- 🌱 I’m currently learning **React.Js, Node.Js, TypeScript, AntDesign, ExpressJs**
+- 🌱 I’m currently learning **React.Js, Node.Js, TypeScript, ExpressJs, Next.Js, React Native**
 
-- 💬 Ask me about **React, Node, Express**
+- 💬 Ask me about **Javascript, React, Node, Express, React Native, TypeScript**
 
 - 📫 How to reach me **singhapapai4444@gmail.com**
 
