@@ -1,7 +1,7 @@
 ![MasterHead](https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg)
 
 <h1 align="center">Hi 👋, I'm Papai Singha</h1>
-<h3 align="center">A passionate full stack MERN developer from India</h3>
+<h3 align="center">A passionate full stack MERN developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papai004" alt="papai004" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **singhapapai4444@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iAETwraAIUln0gL7FCzpMTxsNzfLzBok/view?usp=sharing](https://drive.google.com/file/d/1iAETwraAIUln0gL7FCzpMTxsNzfLzBok/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iAETwraAIUln0gL7FCzpMTxsNzfLzBok/view?usp=sharing](https://drive.google.com/file/d/1LD26C29qsk5QQsAY6sT5_vUcIj_0QBmu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
