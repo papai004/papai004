@@ -9,10 +9,11 @@
 <!-- Typing animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%9A%80+A+Passionate+Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Express;Next.js+%7C+TypeScript+%7C+React+Native;Lifelong+Learner+%F0%9F%92%AD"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%9A%80+A+Passionate+Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Express;Next.js+%7C+TypeScript+%7C+React+Native"
     alt="Typing SVG"
   />
 </p>
+
 
 
 <!-- Coding GIF -->
