@@ -8,8 +8,12 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;TypeScript+%7C+Next.js+%7C+React+Native;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%9A%80+A+Passionate+Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Express;Next.js+%7C+TypeScript+%7C+React+Native;Lifelong+Learner+%F0%9F%92%AD"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
